@@ -6,9 +6,9 @@
 效果图来了。。。
 '''
 
-![image](https://github.com/hebiao6446/SexPickDialog/blob/master/image/1.pic_hd.jpg)
+![image](https://github.com/hebiao6446/SexPickDialog/blob/master/image/1.png)
 
-![image](https://github.com/hebiao6446/SexPickDialog/blob/master/image/2.pic_hd.jpg)
+![image](https://github.com/hebiao6446/SexPickDialog/blob/master/image/2.png)
 
 
 
